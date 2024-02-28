@@ -1,0 +1,7 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install nginx
+pwd
+cd /
+cd var/www
+sudo chmod 777 html
